@@ -1,1 +1,1 @@
-# PythonPriorityQueue
+# PriorityQueue
