@@ -131,3 +131,6 @@ dmypy.json
 
 # Test Files
 test.py
+
+# Pycharm Folders
+.idea/
